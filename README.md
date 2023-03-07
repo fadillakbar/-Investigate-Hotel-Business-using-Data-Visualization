@@ -1,2 +1,2 @@
-# -Investigate-Hotel-Business-using-Data-Visualization
+# Investigate-Hotel-Business-using-Data-Visualization
 Visualizations and data storytelling were created to provide insights into hotel business performance by evaluating how clients book hotel tickets and identifying characteristics that affect hotel ticket cancellations. Patterns and trends in customer behavior and hotel booking processes were identified utilizing data research and analysis techniques. Recommendations were provided to the company to improve customer acquisition, retention and revenue based on the findings. Valuable insights and strategies were offered to enhance the overall performance of the hotel business through the work that was done.
